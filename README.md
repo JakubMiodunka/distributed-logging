@@ -16,6 +16,8 @@ Project is realized primarily for educational purposes to gain knowledge in foll
 * reliable data transfer over a network
 * fault tolerance strategies for failure-state actions
 
+Keep in mind, that project is still under active development, and not all planned features have been implemented.
+
 ## Repository Structure
 
 * */doc* - Contains project documentation.
@@ -34,7 +36,7 @@ Project is realized primarily for educational purposes to gain knowledge in foll
 
 Versioning for this project follows the established guidelines of [semantic versioning](https://en.m.wikipedia.org/wiki/Software_versioning#Semantic_versioning "Wikipedia article").
 
-Current version: 0.0.0
+Current version: 0.0.1
 
 ## Project management
 
